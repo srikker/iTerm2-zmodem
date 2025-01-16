@@ -45,6 +45,10 @@ The receive a file from a remote machine
 2. Select the folder to receive to on the local machine
 3. Wait for the coprocess indicator to disappear
 
+Tip:
+this script default `rz/sz` path is `/usr/local/bin/<rz/sz>`
+if you `rz/sz` install other location, please modif script (maybe `/opt/homebrew/bin/<rz/sz>`)
+
 Future plans (patches welcome)
 
  - Visual progress bar indicator
